@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark Modern",
+		"window.autoDetectColorScheme": true,
+		"workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+		"workbench.iconTheme": "vs-seti",
+		"workbench.sideBar.location": "left"
+	}
+}
